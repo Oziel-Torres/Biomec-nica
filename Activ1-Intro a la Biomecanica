@@ -1,0 +1,84 @@
+\documentclass{article}
+\setlength{\parskip}{5pt} % esp. entre parrafos
+\setlength{\parindent}{0pt} % esp. al inicio de un parrafo
+\usepackage{amsmath} % mates
+\usepackage[sort&compress,numbers]{natbib} % referencias
+\usepackage{url} % que las URLs se vean lindos
+\usepackage[top=25mm,left=20mm,right=20mm,bottom=25mm]{geometry} % margenes
+\usepackage{hyperref} % ligas de URLs
+\usepackage{graphicx} % poner figuras
+\usepackage[spanish]{babel} % otros idiomas
+\usepackage[utf8]{inputenc} % alparecer son los acentos
+
+
+\author{Oziel Alberto Torres Villarreal} % author
+
+\title{Intro a la Biomecanica}
+\author{Oziel Alberto Torres Villarreal, Carlos Antonio Caballero Padilla,\\ Nestoe Eliud Cano Garcia, Jorge Enrique Flores Gonzalez,\\ Heber Adrian Casillas Gutierrez, Victor Alan Cabazos Ramiresz}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introducci\'{o}n}\label{intro} % seccion y etiqueta
+ 
+La biomecánica es un área de conocimiento multidisciplinaria que se interesa por el movimiento, equilibrio, la física, la resistencia, los mecanismos lesionales que pueden producirse en el cuerpo humano como consecuencia de diversas acciones físicas. Se ayuda de otras ciencias como la mecánica y la ingeniería para que con los conocimientos de anatomía y fisiología del cuerpo humano, poder observar, estudiar y describir el movimiento humano. Estudia a los seres vivos desde el punto de vista de la mecánica, buscando relaciones entre magnitudes y buscando explicaciones de comportamientos y observaciones. Está relacionada con la bioingeniería cuyos logros están orientados a la biología humana, como el diseño y fabricación de prótesis óseas, marcapasos, riñón artificial, instrumental clínico y quirúrgico. Cubre ámbitos de aplicación cada vez más amplios y tiene frontera común con la robótica, por ejemplo, manipuladores para sustituir o reforzar los mecanismos humanos.
+
+En esta actividad se verá una introducción a los conceptos básicos relacionados a la biomecánica, tanto como su definición, importancia y aplicaciones de esta ciencia abarcando diversas áreas.
+
+\section{Desarrollo}
+\subsection{Biomecánica}
+La Biomecánica es un área interdisciplinaria que estudia los modelos, fenómenos y leyes que sean relevantes en el movimiento y al equilibrio de los seres vivos. Es una disciplina científica que tiene por objeto el estudio de las estructuras de carácter mecánico que existen en los seres vivos, fundamentalmente del cuerpo humano.
+Aunque su nacimiento como disciplina reconocida se da en la segunda mitad del siglo XX, tiene sus inicios en algunos científicos de la antigüedad, como los son Aristóteles y Da Vinci, quienes sentaron las bases para que los descubrimientos de la biomecánica moderna.
+La biomecánica es un área de conocimiento que se interesa por el movimiento, equilibrio, la física, la resistencia, los mecanismos lesionales que pueden producirse en el cuerpo humano como consecuencia de diversas acciones físicas.
+La biomecánica se ayuda de otras ciencias como la mecánica y la ingeniería para que, con los conocimientos de anatomía y fisiología del cuerpo humano, poder observar, estudiar y describir el movimiento humano.
+Dicho de esta manera, puede que se piense que la biomecánica no tiene sentido alguno, pero mucho más allá esta disciplina ha ayudado a resolver muchos problemas del cuerpo humano. La persona es movimiento.
+De entrada, la biomecánica pretende conocer las respuestas que tiene el cuerpo ante la idea de movimiento y cómo reacciona ante este. Una de las situaciones por ejemplo puede ser el movimiento involuntario o de defensa como ocurre cuando alguien nos ataca que movemos las articulaciones para protegernos o si estamos cerca de la candela y sentimos el calor demasiado fuerte, nos alejamos (a menudo de un salto) para que no nos quememos.
+La biomecánica puede usarse para estudiar diferentes ámbitos de nuestra vida tales como las acciones cotidianas, nuestra actividad laboral, el deporte que practicamos o cualquier movimiento que consideremos “no importante” puede tener sentido para esta disciplina. \cite{ff1,ff2,ff3}
+
+
+\subsection{¿Para qué nos sirve la Biomecánica?}
+En la actualidad la biomecánica está presente en los ámbitos ocupacionales, del deporte y médico. A nivel ocupacional se encarga de estudiar la interacción del cuerpo humano con nuestro entorno laboral, trabajo frente al computador, conducción de vehículos, manejo de cargas, etc., y de esta forma adaptarlas a las necesidades y capacidades individuales; en este espacio de la biomecánica se relaciona con la ergonomía.
+En el ámbito de la biomecánica deportiva analiza el entrenamiento deportivo para lograr mejorar el rendimiento deportivo, de esta forma se desarrollan técnicas de entrenamiento complementarios. Por último, la biomecánica médica es la encargada de evaluar las patologías que afectan al cuerpo humano, en pro de generar soluciones para evaluarlas, repararlas o evitarlas.
+El uso de la tecnología de análisis biomecánico más innovadora en la actualidad nos permite desarrollar estudios biomecánicos durante el entrenamiento o competición real, sin tiempos de preparación \cite{ff4,ff5}
+
+\subsection{Aplicaciones de la Biomecánica}
+
+La biomecánica tiene diversas aplicaciones en los deportes, en la industria, en el ambiente, en la ocupacional y la medicina, En todas estas áreas se aplican los conocimientos, técnicas y procedimientos biomecánicos cuyo objetivo es el comprender el comportamiento del cuerpo humano con el fin de proponer métodos artificiales para resolver problemas que presente el cuerpo.
+A continuación, podemos ver algunas de las aplicaciones de la biomecánica en las áreas mencionadas anteriormente.
+\begin{itemize}
+
+ \item Deportes: para el diseño de equipamiento para mejorar el rendimiento deportivo. Permite analizar los movimientos de los atletas para prevenir lesiones y ayuda a analizar las destrezas motoras, contribuyendo así a la optimización de la técnica en la practica deportiva, favoreciendo así el desarrollo de nuevas técnicas de entrenamiento.
+ \item Industria: permite el evaluar riesgos en los diferentes trabajos y desordenes por traumas acumulativos, permitiendo también el encontrar los puntos de estrés a la hora de realizar los diferentes trabajos.
+ \item Ambiental: impacto de las vibraciones biomecánicas en locomoción terrestre, acuática y aérea.
+ \item Ocupacional: diseño de puestos de trabajo, evaluación de riesgos laborales, análisis de los puntos de estrés de alguna actividad y modificación del medio de acuerdo con las capacidades y necesidades humanas.
+ \item Medicina: técnicas de análisis de movimiento, de tejidos, de musculo esquelético, vascular y respiratorio al igual que el desarrollo de implantes médicos.
+\end{itemize}
+
+A continuación, se presentan algunas de los diversos productos que se han diseñado.
+
+\begin{itemize}
+ 
+  \item Implantes médicos: dispositivos que pueden ser colocados sobre la superficie del cuerpo o dentro del cuerpo. Pueden administrar medicamento, brindar soporte a órganos y tejidos o bien controlar algunas funciones corporales. Estos implantes pueden ser de hueso, piel, tejidos corporales o bien de materiales metálicos, cerámicos o plásticos.
+ \item Prótesis: la prótesis sustituye de forma artificial una parte del cuerpo. Para desarrollarla se requieren materiales específicos y biocompatibles, así como de análisis mecánicos previos. Los investigadores continúan diseñando e innovando en este tipo de dispositivos, haciendo que sean lo mas parecido a la extremidad humana que sustituyen.
+ \item Órganos artificiales: dispositivo o tejido artificial el cual fue diseñado mediante el análisis de características físicas y químicas, con el fin de sustituir alguna parte del organismo la cual se encuentra dañada. Se busca que el órgano artificial sean lo mas compatibles posibles, por lo que se ha trabajado con la creación de órganos in vitro mediante la imitación del desarrollo de una célula.\cite{ff6,ff7}
+ 
+\end{itemize}
+
+
+
+
+
+\section{Conclusiones}
+
+En conclusión, es de suma importancia la biomecánica ya que actualmente está presente en diversas áreas que abarcan tanto el deporte, la medicina, ingeniería, electrónica, programación, entre otras. Debido a que estudia la relación del cuerpo con nuestro alrededor ya sea cuando se hace trabajo frente al computador, conducción de vehículos, desempeño de cargas, etcétera., y así poder adaptar las necesidades y habilidades particulares de cada individuo. Como se mencionó con anterioridad la biomecánica es una disciplina científica que estudia, entre otras cosas, nuestro cuerpo en diferentes situaciones, pero además analiza las consecuencias mecánicas de nuestras actividades cotidianas y es por esto que es una materia en la que debemos depositar mucho interés.
+Además, el objetivo de la biomecánica se reduce a predecir el comportamiento del cuerpo humano ante acciones mecánicas exteriores, reforzar y optimizar artificialmente el cuerpo humano en su comportamiento-desempeño y para sustituir partes del cuerpo humano en razón de garantizar su eficacia mecánica.
+
+
+\bibliography{Biblio.bib}
+\bibliographystyle{plainnat}
+
+
+    
+\end{document}
